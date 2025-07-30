@@ -1,68 +1,79 @@
-🎬 Netflix Clone (HTML & CSS)
-A responsive Netflix homepage clone built using only HTML and CSS, inspired by the official Netflix landing page. This project demonstrates how to structure a landing page, style it with pure CSS, and make it responsive across all devices.
+# 🎬 Netflix Home Page Clone
 
-🚀 Live Demo
-🔗 https://khushboo184.github.io/Netflix-Home-Page/ 
+This project is a **Netflix homepage clone** built using **HTML and CSS only**.  
+It replicates the UI of Netflix's landing page with a **dark theme, banner section, movie posters, and responsive design**.  
+This project focuses on **mastering front-end styling and layouts without JavaScript**.
 
-📌 Features
-🎨 Netflix-inspired UI design with logo, background image, and sign-in button
+---
 
-🎥 Video background support for a realistic feel
+## 🚀 Live Demo
 
-📱 Fully responsive layout for desktop, tablet, and mobile
+🔗 [Click here to view the project](https://khushboo184.github.io/Netflix-Home-Page/)
 
-🖤 Dark theme with hover effects
+---
 
-⚡ No JavaScript – built entirely with HTML and CSS
+## 🛠️ Tech Stack
 
-🛠️ Tech Stack
-HTML5 – Semantic and structured markup
+- **HTML5** – Structure and semantic tags  
+- **CSS3** – Flexbox, positioning, transitions, responsive layout  
+- **Local Assets** – Images, favicon, and background video  
 
-CSS3 – Flexbox, positioning, and responsive design
+---
 
-Local Assets – Images, favicon, and video background
+## 📂 Folder Structure
 
-📂 Folder Structure
-NETFLIX CLONE/
-│── .vscode/
+Netflix-Home-Page/
 │── assets/
-│   ├── images/
-│   │   ├── bg.jpg
-│   │   └── logo.svg
-│   └── videos/
-│       └── video_1.m4v
+│ ├── images/
+│ │ ├── bg.jpg
+│ │ └── logo.svg
+│ └── videos/
+│ └── video_1.m4v
 │── favicon.ico
 │── index.html
 │── netflix_logo_icon_170919.png
 │── style.css
-📥 How to Run Locally
-Clone this repository
+│── screenshots/
+│ ├── Screenshot 1 (1).png
+│ ├── Screenshot 1 (2).png
+│ ├── Screenshot 1 (3).png
+│ ├── Screenshot 1 (4).png
+│ └── Screenshot 1 (5).png
 
 
-git clone https://github.com/khushboo184/Netflix-Home-Page.git
-Navigate to the folder
+---
 
+## 📥 How to Run Locally
+
+1. **Clone this repository**
+   ```bash
+   git clone https://github.com/khushboo184/Netflix-Home-Page.git
+   
+2. Navigate to the folder
 
 cd Netflix-Home-Page
-Open in browser
+
+3. Open in browser
 
 Double-click index.html
 
 Or right-click → Open with Live Server in VS Code
 
 📸 Screenshots
-Desktop View	Mobile View
-
-(Replace with your actual project screenshots)
+<img width="1365" height="718" alt="Screenshot 1 (1)" src="https://github.com/user-attachments/assets/0e5447bd-f9ab-42ea-82dc-add3cb7450b6" />
+<img width="1365" height="721" alt="Screenshot 1 (2)" src="https://github.com/user-attachments/assets/f595de73-4687-460a-a1f1-34c09ee92b10" />
+<img width="1356" height="716" alt="Screenshot 1 (3)" src="https://github.com/user-attachments/assets/3b23e0bf-ab91-4557-8f63-92e265f5f273" />
+<img width="1365" height="727" alt="Screenshot 1 (4)" src="https://github.com/user-attachments/assets/5d1ebf5d-70fd-4f36-928e-e9cc86d0c946" />
 
 🎯 Learning Takeaways
-Creating a real-world UI from scratch
+Understanding real-world UI structure and layout
 
-Using Flexbox and positioning for layout
+Using Flexbox & positioning for complex designs
 
-Designing responsive web pages without JavaScript
+Implementing responsive web pages without JavaScript**
 
-Managing local video and image assets effectively
+Managing local assets (images, favicon, videos) effectively
 
 👩‍💻 Author
 Khushboo Kushwaha
+
