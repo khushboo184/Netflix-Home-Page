@@ -8,7 +8,7 @@ This project focuses on **mastering front-end styling and layouts without JavaSc
 
 ## 🚀 Live Demo
 
-🔗 [Click here to view the project](https://khushboo184.github.io/Netflix-Home-Page/)
+🔗 [[Click here to view the project](https://khushboo184.github.io/Netflix-Home-Page/)]
 
 ---
 
